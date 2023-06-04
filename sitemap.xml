@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://schangpi.github.io/</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/index.html</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/research.html</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/other.html</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/CV_Soravit_Beer_Changpinyo_web.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/emnlp19_ultra.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/emnlp19_ultra_supp.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/emnlp19_ultra_poster.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/emnlp19_ultra_spotlight.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/coling18_mtl_tag.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/coling18_mtl_tag_supp.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/coling18_mtl_tag_poster.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/iccv17_zsl_exem.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/iccv17_zsl_exem_supp.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/iccv17_zsl_exem_poster.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/eccv16_gzsl.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/eccv16_gzsl_supp.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/eccv16_gzsl_poster.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/eccv16_gzsl_spotlight.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/cvpr16_zsl_sync.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/cvpr16_zsl_sync_supp.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/cvpr16_zsl_sync_poster.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/nips13_sca.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/nips13_sca_supp.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/nips13_sca_poster.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://schangpi.github.io/papers/brown12_thesis_attibp.pdf</loc>
+  <lastmod>2023-05-31T05:46:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
